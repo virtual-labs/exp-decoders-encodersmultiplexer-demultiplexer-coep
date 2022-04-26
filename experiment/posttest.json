@@ -2,37 +2,51 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "In general, a multiplexer has",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "One data input, several data outputs and selection input",
+        "b": "One data input, one data output, and one selection input",
+        "c": "several data inputs, one data outputs, and selection inputs",
+        "d": "None of these"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which of the following codes exhibit even parity?",
+      "answers": {
+        "a": "11111111",
+        "b": "01111000",
+        "c": "111110000",
+        "d": "Both a and b"
       },
+      
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Data selectors are basically the same as",
+      "answers": {
+        "a": "Multiplexers",
+        "b": "Demultiplexers",
+        "c": "Encoders",
+        "d": "Decoders"
+      },
+      
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "The device used to convert a binary number to a 7-segment display format is",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Encoder",
+        "b": "Decoder",
+        "c": "Register",
+        "d": "Multiplexer"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "c",
+      
+      "correctAnswer": "b",
       "difficulty": "beginner"
     }
   ]
