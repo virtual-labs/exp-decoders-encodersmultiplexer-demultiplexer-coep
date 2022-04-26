@@ -1,0 +1,53 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "In general, a multiplexer has",
+      "answers": {
+        "a": "One data input, several data outputs and selection input",
+        "b": "One data input, one data output, and one selection input",
+        "c": "several data inputs, one data outputs, and selection inputs",
+        "d": "None of these"
+      },
+      
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which of the following codes exhibit even parity?",
+      "answers": {
+        "a": "11111111",
+        "b": "01111000",
+        "c": "111110000",
+        "d": "Both a and b"
+      },
+      
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Data selectors are basically the same as",
+      "answers": {
+        "a": "Multiplexers",
+        "b": "Demultiplexers",
+        "c": "Encoders",
+        "d": "Decoders"
+      },
+      
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The device used to convert a binary number to a 7-segment display format is",
+      "answers": {
+        "a": "Encoder",
+        "b": "Decoder",
+        "c": "Register",
+        "d": "Multiplexer"
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    }
+  ]
+}
