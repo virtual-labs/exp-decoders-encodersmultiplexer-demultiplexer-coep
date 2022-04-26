@@ -2,37 +2,63 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "The output of a gate is HIGH if and only if all its inputs are LOW. It is true for",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "NOR",
+        "b": "NAND",
+        "c": "XOR",
+        "d": "ALL"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
+     
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "The output if a 2-input gate is 1 if and only if its input are unequal it is true for",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "OR",
+        "b": "NOR",
+        "c": "XNOR",
+        "d": "XOR"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The output of gate is low when at least one of the input is high",
+      "answers": {
+        "a": "OR",
+        "b": "NOR",
+        "c": "AND",
+        "d": "NAND"
       },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The output of the gate is high only if all its inputs are high. It is true for",
+      "answers": {
+        "a": "NOR",
+        "b": "XOR",
+        "c": "AND",
+        "d": "NAND"
+      },
+      
       "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The output of the a gate is low if and only if all the inputs are low. It is true for",
+      "answers": {
+        "a": "OR",
+        "b": "XOR",
+        "c": "AND",
+        "d": "NAND"
+      },
+      
+      "correctAnswer": "a",
       "difficulty": "beginner"
     }
   ]
